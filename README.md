@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Rust</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning ML/AI</p>
 
 ###
 
